@@ -1,0 +1,5 @@
+com\aditya\mysqltutorial\AddressApi\Address.class
+com\aditya\mysqltutorial\AddressApi\AddressService.class
+com\aditya\mysqltutorial\AddressApi\AddressApi.class
+com\aditya\mysqltutorial\AddressApi\AddressRepository.class
+com\aditya\mysqltutorial\AddressApi\AddressController.class
